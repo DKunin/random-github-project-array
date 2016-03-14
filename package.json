@@ -1,0 +1,22 @@
+{
+  "name": "random-github-project-array",
+  "version": "1.0.0",
+  "description": "Get random list of github projects of certain user",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "github",
+    "user",
+    "random",
+    "game"
+  ],
+  "author": "DKunin",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^1.8.0",
+    "unique-random": "^1.0.0",
+    "yargs": "^4.2.0"
+  }
+}
